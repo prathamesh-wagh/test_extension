@@ -38,6 +38,3 @@ var extensionSDK = app.Extension({
 })
 
 return extensionSDK.start(9000)
-
-
-// e2c7844b237643927ec4e8b21bc8204780c47e60
